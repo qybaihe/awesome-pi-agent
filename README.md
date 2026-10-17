@@ -61,7 +61,7 @@ The official project and its immediate family.
 
 ## Distros, Forks & Things Built on π
 
-- [mu](https://github.com/qybaihe/mu) — Coding agent built on pi in which a small judge model answers routine decisions at more than 30 decision points (which tool output enters the context, whether a flagged command was asked for, whether "done" was verified); every verdict goes to a local ledger. CLI and desktop app.
+- [mu](https://github.com/qybaihe/mu) — pi-based agent where a small judge model makes routine calls at 30+ decision points, logged to a local ledger.
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) — The heavyweight distro: hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more.
 - [pi-rs](https://github.com/jshachm/pi-rs) — Lightweight Rust reimplementation of pi.
 - [pix-mono](https://github.com/xynogen/pix-mono) — Pix, a distro of the pi coding agent.
